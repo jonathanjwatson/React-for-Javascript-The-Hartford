@@ -30,6 +30,8 @@ To check your currently installed version of npm, run the following command in y
 npm -v
 ```
 
+![README-node-version](/assets/README-node-version.png)
+
 I will be running the LTS version (currently at 18.14.1 at time of writing), but lower LTS (even-numbered) versions are okay as well. 
 
 ### 3. Create React App
@@ -41,6 +43,18 @@ npx create-react-app my-app
 ```
 
 Where {my-app} is the name of the application you want to create. I **strongly** suggest you run this command prior to the start of class. 
+
+Note: You may receive this when running the above command: 
+
+```
+Need to install the following packages:
+  create-react-app@5.0.1
+Ok to proceed? (y)
+```
+
+Type "y". The installation should occur, then create-react-app or (CRA) will continue to run. A successful installation should see a screen something like this: 
+
+![README-cra-install](/assets//README-cra-install.png)
 
 ### 4. GitHub Account and Git
 
