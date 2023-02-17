@@ -16,7 +16,7 @@ This is the preferred IDE for the class. We will be using several VS Code extens
 
 ### 2. Node
 
-[NodeJS] (https://nodejs.org/en/) is essential for our programming material. It includes [NPM (Node Package Manager)] (https://www.npmjs.com/) and will allow us to run [Create React App] (https://create-react-app.dev/)
+[NodeJS](https://nodejs.org/en/) is essential for our programming material. It includes [NPM (Node Package Manager)](https://www.npmjs.com/) and will allow us to run [Create React App](https://create-react-app.dev/)
 
 To check your currently installed version of node, run the following command in your terminal: 
 
@@ -36,7 +36,7 @@ I will be running the LTS version (currently at 18.14.1 at time of writing), but
 
 ### 3. Create React App
 
-[Create React App] (https://create-react-app.dev/) is a scaffolding tool that will allow us to quickly setup a basic react application. Per the instructions on their ["Get Started"] (https://create-react-app.dev/docs/getting-started) page, you'll need the ability to run the following command: 
+[Create React App](https://create-react-app.dev/) is a scaffolding tool that will allow us to quickly setup a basic react application. Per the instructions on their ["Get Started"](https://create-react-app.dev/docs/getting-started) page, you'll need the ability to run the following command: 
 
 ```
 npx create-react-app my-app
@@ -62,13 +62,13 @@ This repo can be found on GitHub. I will be updating the repo throughout the cou
 
 ### 5. Chrome Browser
 
-A recent study found that Chrome has 77% of the browser market share globally [kinsta] (https://kinsta.com/browser-market-share/#:~:text=Google%20Chrome%20is%20the%20most,desktop%20web%20browser%20by%20far.). As such, Chrome is the easiest browser to develop for. 
+A recent study found that Chrome has 77% of the browser market share globally [kinsta](https://kinsta.com/browser-market-share/#:~:text=Google%20Chrome%20is%20the%20most,desktop%20web%20browser%20by%20far.). As such, Chrome is the easiest browser to develop for. 
 
 Additionally, it will allow us to install some very helpful extensions (see number six below).
 
 ### 6. React Developer Tools
 
-This is a chrome extension that we will be using to view props, state, and context. [Install here] (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+This is a chrome extension that we will be using to view props, state, and context. [Install here](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Class Expectations
 
